@@ -1,0 +1,13 @@
+D:\School\IT-DEV 115\Assignments\FarmerGUIAPP\FarmerGUIAPP\bin\Debug\FarmerGUIAPP.exe.config
+D:\School\IT-DEV 115\Assignments\FarmerGUIAPP\FarmerGUIAPP\bin\Debug\FarmerGUIAPP.exe
+D:\School\IT-DEV 115\Assignments\FarmerGUIAPP\FarmerGUIAPP\bin\Debug\FarmerGUIAPP.pdb
+D:\School\IT-DEV 115\Assignments\FarmerGUIAPP\FarmerGUIAPP\obj\Debug\FarmerGUIAPP.csprojResolveAssemblyReference.cache
+D:\School\IT-DEV 115\Assignments\FarmerGUIAPP\FarmerGUIAPP\obj\Debug\FarmerGUIAPP.FarmerGUI.resources
+D:\School\IT-DEV 115\Assignments\FarmerGUIAPP\FarmerGUIAPP\obj\Debug\FarmerGUIAPP.Properties.Resources.resources
+D:\School\IT-DEV 115\Assignments\FarmerGUIAPP\FarmerGUIAPP\obj\Debug\FarmerGUIAPP.csproj.GenerateResource.cache
+D:\School\IT-DEV 115\Assignments\FarmerGUIAPP\FarmerGUIAPP\obj\Debug\FarmerGUIAPP.csproj.CoreCompileInputs.cache
+D:\School\IT-DEV 115\Assignments\FarmerGUIAPP\FarmerGUIAPP\obj\Debug\FarmerGUIAPP.exe
+D:\School\IT-DEV 115\Assignments\FarmerGUIAPP\FarmerGUIAPP\obj\Debug\FarmerGUIAPP.pdb
+C:\Users\Adam\Desktop\FarmerGUIAPP\FarmerGUIAPP\FarmerGUIAPP\obj\Debug\FarmerGUIAPP.csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\FarmerGUIAPP\FarmerGUIAPP\FarmerGUIAPP\obj\Debug\FarmerGUIAPP.exe
+C:\Users\Adam\Desktop\FarmerGUIAPP\FarmerGUIAPP\FarmerGUIAPP\obj\Debug\FarmerGUIAPP.pdb
